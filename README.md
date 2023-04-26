@@ -10,10 +10,17 @@ Two bookshelves were downloaded but the majority of the project was inspired by 
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/97594278/234481233-a53f6036-832a-4fb4-b1e4-832980eb3041.png)
+
 Drawings of rectangles
+
+
 ![image](https://user-images.githubusercontent.com/97594278/234481713-f5f5c9bc-8f66-4e92-ba4b-acf88dc951e7.png)
+
 Drawings of ellipses
+
+
 ![image](https://user-images.githubusercontent.com/97594278/234481282-e560e848-ef5a-4642-948b-ebc43d95d73d.png)
+
 Selection/deleting of shapes (here, an ellipse)
 
 
